@@ -1,28 +1,28 @@
-## Hi there, I'm Mr. Natural! 👋
+# Hi there, I'm Mr. Natural 👋
 
-I'm a developer who loves to watch movies 🎥, and play games 🎮. My favorite movies include Interstellar, Avengers: Endgame, and most of the Pixar stuff 🍿.
+I'm a student, gamer & part-time developer who loves to code, binge, and game.
 
-<hr>
+## Skills & Tools
 
-### What I Do
+### Languages
 
-In my free time, I enjoy making cool side projects and bots using my favorite languages, such as Python 🐍, JavaScript 🌐, C++ 🖥️, and HTML 🌐. One of my current projects is a Discord bot named Pypke 🤖.
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,cs)
 
-### Hobbies
+### Frameworks
 
-When I'm not coding, I like to relax by eating 🍽️, watching movies and TV 📺, and spending time with friends and family 👪.
+![Frameworks](https://skillicons.dev/icons?i=flask,vue,nextjs,react)
 
-### Favorite Activities
+### Databases
 
-My favorite activities include playing chess ♟️, basketball 🏀, and football ⚽.
+![Databases](https://skillicons.dev/icons?i=mongodb,sqlite)
 
-### Music
+### Tools
 
-My music taste ranges from pop 🎤 to calming jazz 🎷.
+![Tools](https://skillicons.dev/icons?i=vscode,xd,vercel,replit)
 
-<hr>
+## GitHub Stats
 
-> "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." ~ Christian D. Larson
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmrnatural&layout=compact&theme=transparent)
 
 Feel free to reach out to me on [Twitter](https://twitter.com/ItsMrNatural) to connect or discuss any potential opportunities.
 
