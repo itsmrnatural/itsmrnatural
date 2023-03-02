@@ -15,35 +15,37 @@
 I'm a student, gamer & part-time developer who loves to code, binge, and game.
 
 <details>
-  <summary><strong>Recent Activities</strong></summary>
-  <!--START_SECTION:activity-->
+  <summary><strong>⚡ Recent Activities</strong></summary>
+  
+<!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/itsmrnatural/itsmrnatural/issues/1) in [itsmrnatural/itsmrnatural](https://github.com/itsmrnatural/itsmrnatural)
-  <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
+  
 </details>
 
 <details>
-<summary><strong>Skills & Tools</strong></summary>
+<summary><strong>⚙️ Skills & Tools</strong></summary>
 
-### Languages
+#### Languages
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,cs)
 
-### Frameworks
+#### Frameworks
 
 ![Frameworks](https://skillicons.dev/icons?i=flask,vue,nextjs,react)
 
-### Databases
+#### Databases
 
 ![Databases](https://skillicons.dev/icons?i=mongodb,sqlite)
 
-### Tools
+#### Tools
 
 ![Tools](https://skillicons.dev/icons?i=vscode,xd,vercel,replit)
 
 </details>
 
 <details>
-<summary><strong>GitHub Stats</strong></summary>
+<summary><strong>📊 GitHub Stats</strong></summary>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itsmrnatural&show_icons=true&hide_border=false&title_color=0094C6&icon_color=17B890&bg_color=000000&text_color=EEE5E9&border_color=0c1a25)
 
