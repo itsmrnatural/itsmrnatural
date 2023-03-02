@@ -17,6 +17,7 @@ I'm a student, gamer & part-time developer who loves to code, binge, and game.
 <details>
   <summary><strong>Recent Activities</strong></summary>
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/itsmrnatural/itsmrnatural/issues/1) in [itsmrnatural/itsmrnatural](https://github.com/itsmrnatural/itsmrnatural)
   <!--END_SECTION:activity-->
 </details>
 
