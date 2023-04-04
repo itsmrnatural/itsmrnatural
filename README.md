@@ -18,7 +18,7 @@ I'm a student, gamer & part-time developer who loves to code, binge, and game.
   <summary><strong>⚡ Recent Activities</strong></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/pypke/pypke-docs-v2/issues/13) in [pypke/pypke-docs-v2](https://github.com/pypke/pypke-docs-v2)
+1. ❗️ Opened issue [#3](https://github.com/itsmrnatural/my-website/issues/3) in [itsmrnatural/my-website](https://github.com/itsmrnatural/my-website)
 <!--END_SECTION:activity-->
   
 </details>
