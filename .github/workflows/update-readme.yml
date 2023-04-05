@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
           COMMIT_MSG: 'docs(activity): update recent activity'
+          MAX_LINES: 5
