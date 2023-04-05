@@ -15,5 +15,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
-          COMMIT_MSG: 'docs(activity): update recent activity'
+          COMMIT_MSG: 'chore(activity): update recent activity'
           MAX_LINES: 5
