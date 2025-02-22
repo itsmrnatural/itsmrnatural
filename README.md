@@ -29,7 +29,7 @@ Thanks for stopping by! 🙌
     <td>
       <p><b>Recently listened to...</p></b>
       <a href="https://www.last.fm/user/itsmrnatural">
-        <img src="https://lastfm-recently-played.vercel.app/api?user=itsmrnatural&show_user=header&loved=true&loved_style=3&bg_color=00000000&footer_style=compact_stats&maxage=60" alt="Listening History Image">
+        <img src="https://lastfm-recently-played.vercel.app/api?user=itsmrnatural&count=3&show_user=header&loved=true&loved_style=3&bg_color=00000000&footer_style=compact_stats&maxage=60" alt="Listening History Image">
       </a>
     </td>
   </tr>
