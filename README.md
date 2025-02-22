@@ -11,7 +11,9 @@
     ░                                    ░                                    ░           ░                                               
 ```
 <!-- Header -->
-<h1>Hi there, call me Natural 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Karla&size=24&pause=1000&color=F7F7F7&vCenter=true&random=true&width=800&lines=Hi+there%2C+call+me+Natural!;404%3A+Probably+didn't+took+enough+coffee;Break+production%2C+Fix+production%2C+Repeat" alt="Typing SVG" /></a>
+
+<hr>
 
 <!-- Bio -->
 <i>Student, programmer, and a severe coffee addict ☕ </i></br>
