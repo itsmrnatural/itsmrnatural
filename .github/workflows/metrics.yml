@@ -34,11 +34,3 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 5%
           plugin_languages_limit: 8
-          
-          # Add Anilist plugin for anime statistics - only current watches
-          plugin_anilist: yes
-          plugin_anilist_user: itsmrnatural
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: watching, reading  # Only show currently watching/reading
-          plugin_anilist_limit: 4  # Show up to 4 items per section
-          plugin_anilist_shuffle: yes  # Randomly select entries if you have more than the limit
