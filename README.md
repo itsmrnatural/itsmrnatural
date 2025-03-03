@@ -62,20 +62,6 @@ Yes, I know I should add more to this readme, I'll do that past work broke yk.
   </tr>
 </table>
 
-<!-- Connect Section -->
-## Connect With Me
-<div align="left">
-  <a href="https://x.com/itsmrnatural" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/imdhananjay" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/624572769484668938" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-</div>
-
 ### Thanks for stopping by! 🙌
 
 <!-- Last Updated -->
