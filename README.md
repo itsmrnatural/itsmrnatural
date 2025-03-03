@@ -1,5 +1,5 @@
 <!-- Header -->
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Karla&size=24&pause=1000&color=F7F7F7&vCenter=true&random=true&width=500&lines=Hi+there%2C+call+me+Natural!;404%3A+Probably+didn't+took+enough+coffee"></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Karla&size=24&pause=1000&color=F7F7F7&vCenter=true&random=true&width=600&lines=Hi+there%2C+call+me+Natural!;404%3A+Probably+didn't+took+enough+coffee"></a>
 
 <!-- Bio -->
 <i>Student, programmer, and a severe coffee addict ☕ </i></br>
