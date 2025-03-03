@@ -45,7 +45,7 @@ Yes, I know I should add more to this readme, I'll do that past work broke yk.
 ## Some Metrics
 <div align="left">
   <picture>
-    <img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/main/github-metrics.svg" alt="Metrics">
+    <img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/refs/heads/main/github-metrics.svg" alt="Metrics">
   </picture>
 </div>
 
