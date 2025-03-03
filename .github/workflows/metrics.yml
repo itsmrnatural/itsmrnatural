@@ -18,7 +18,7 @@ jobs:
           # Options
           user: itsmrnatural
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: UTC
           
           # Display achievements
@@ -45,5 +45,5 @@ jobs:
           # Code Snippet
           plugin_code: yes
           plugin_code_days: 0
-          plugin_code_lines: 7
+          plugin_code_lines: 7z
           
