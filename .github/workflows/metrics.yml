@@ -35,3 +35,9 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 5%
           plugin_languages_limit: 8
+
+          # Recent Activities
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_visibility: public
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
