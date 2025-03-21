@@ -33,12 +33,6 @@ Yes, I know I should add more to this readme, I'll do that past work broke yk.
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /> 
-  </a>
-  <a href="https://elixir-lang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
-  </a>
 </div>
 
 <!-- Some Metrics -->
