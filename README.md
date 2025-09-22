@@ -36,12 +36,13 @@ Yes, I know I should add more to this readme, I'll do that past work broke yk.
 </div>
 
 <!-- Some Metrics -->
-## Some Metrics
+<!-- ## Some Metrics
 <div align="left">
   <picture>
     <img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/refs/heads/main/github-metrics.svg" alt="Metrics">
   </picture>
-</div>
+</div> 
+-->
 
 <!-- Now Playing -->
 ## Music Corner
