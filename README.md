@@ -61,5 +61,5 @@ Yes, I know I should add more to this readme, I'll do that past work broke yk.
 
 <!-- Last Updated -->
 <div align="right">
-  <i>Last updated: 2nd March, 2025</i>
+  <i>Last updated: 22nd September, 2025</i>
 </div>
