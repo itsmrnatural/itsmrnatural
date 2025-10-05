@@ -20,11 +20,11 @@ jobs:
 
                   # Core Configuration
                   user: itsmrnatural
-                  template: classic
+                  template: terminal 
                   base: header, activity, community
                   config_timezone: Asia/Kolkata
-                  config_display: large
-                  config_padding: 0, 8 + 11%
+                  config_display: regular
+                  config_padding: 0, 8
 
                   # Languages Statistics (Clean & Focused)
                   plugin_languages: yes
@@ -69,5 +69,5 @@ jobs:
                   plugin_music_mode: recent
                   plugin_music_user: itsmrnatural
                   plugin_music_token: ${{ secrets.LASTFM_KEY }}
-                  plugin_music_limit: 2
+                  plugin_music_limit: 4
                   plugin_music_played_at: yes
