@@ -20,7 +20,7 @@ jobs:
 
                   # Core Configuration
                   user: itsmrnatural
-                  template: terminal 
+                  template: classic 
                   base: header, activity, community
                   config_timezone: Asia/Kolkata
                   config_display: regular
