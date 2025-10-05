@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+    schedule:
+        - cron: "0 0 * * *" # Daily at midnight
+    workflow_dispatch: # Manual trigger
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+
+            - name: Update timestamp
+              run: |
+                  DATE=$(date '+%d %B, %Y')
+                  sed -i "s/Last updated: .*/Last updated: $DATE<\/i>/" README.md
+
+            - name: Commit changes
+              run: |
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git add README.md
+                  git diff --quiet && git diff --staged --quiet || git commit -m "chore: update last modified date"
+                  git push
