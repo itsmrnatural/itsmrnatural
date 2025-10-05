@@ -70,13 +70,13 @@ gpg --keyserver keys.openpgp.org --recv-keys 3D280550B702CBB9
 </div>
 
 <!-- Some Metrics -->
-<!-- ## Some Metrics
+## Some Metrics
 <div align="left">
   <picture>
     <img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/refs/heads/main/github-metrics.svg" alt="Metrics">
   </picture>
 </div>
--->
+
 
 <!-- Now Playing -->
 
