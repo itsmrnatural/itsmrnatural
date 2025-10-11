@@ -1,57 +1,17 @@
 <!-- Header -->
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        ███╗   ██╗ █████╗ ████████╗██╗   ██╗██████╗  █████╗   ║
-║        ████╗  ██║██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔══██╗  ║
-║        ██╔██╗ ██║███████║   ██║   ██║   ██║██████╔╝███████║  ║
-║        ██║╚██╗██║██╔══██║   ██║   ██║   ██║██╔══██╗██╔══██║  ║
-║        ██║ ╚████║██║  ██║   ██║   ╚██████╔╝██║  ██║██║  ██║  ║
-║        ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Natural+🌿;Coding+by+day%2C+debugging+by+night+🌙;Fueled+by+coffee+%26+curiosity+☕;Building+the+future%2C+one+commit+at+a+time+💻"></a>
-</div>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Natural+🌿;Coding+by+day%2C+debugging+by+night+🌙;Fueled+by+coffee+%26+curiosity+☕;Building+the+future%2C+one+commit+at+a+time+💻"></a>
 
 <!-- Bio -->
 
-<div align="center">
-  <i>🎓 Student • 💻 Developer • ☕ Coffee Connoisseur • 🎵 Music Enthusiast</i>
-  <br><br>
-  <b>🧭 Navigating the digital realm with code, creativity, and caffeine</b>
-</div>
+<i>Student, programmer, and a severe coffee addict ☕ </i></br>
 
-## 🌟 About Me
-
-> *"Write code that speaks for itself, but document it anyway."* 
-
-- 🔭 Currently exploring the depths of **low-level programming** and **system design**
-- 🌱 Learning **C** and sharpening my skills in **Python** & **JavaScript**
-- 🎯 Goal: Build impactful software that makes a difference
-- 💡 Fun fact: I measure time in coffee cups ☕
-- 🎮 When not coding: Discovering new music and contemplating the universe
-
-## ☕ Coffee & Code Stats
+## ☕ Coffee Stats
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee">
-  <img src="https://img.shields.io/badge/Code%20Quality-Caffeinated-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Code Quality">
-  <img src="https://img.shields.io/badge/Debug%20Mode-Always%20On-red?style=for-the-badge&logo=bug&logoColor=white" alt="Debug Mode">
-  <img src="https://img.shields.io/badge/Status-Compiling%20Dreams-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=flat&logo=buy-me-a-coffee&logoColor=white" alt="Coffee">
+  <img src="https://img.shields.io/badge/Code%20Quality-Caffeinated-success?style=flat" alt="Code Quality">
 </div>
-
-### 📊 Productivity Formula
-```python
-def productivity():
-    coffee_intake = float('inf')
-    bugs_fixed = coffee_intake * curiosity
-    code_written = (coffee_intake + passion) ** creativity
-    return code_written - bugs_fixed  # Always positive! 
-```
 
 <!-- GPG Public Key -->
 
@@ -136,26 +96,15 @@ gpg --keyserver keys.openpgp.org --recv-keys 3D280550B702CBB9
 
 <!-- Now Playing -->
 
-## 🎵 Sonic Sanctuary
-
-> *"Code is poetry, but it needs a soundtrack."*
+## Music Corner
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <p><b>🎧 Recently Vibed To...</b></p>
+    <td>
+      <p><b>Recently listened to...</p></b>
       <a href="https://www.last.fm/user/itsmrnatural">
         <img src="https://lastfm-recently-played.vercel.app/api?user=itsmrnatural&count=3&show_user=header&loved=true&loved_style=3&bg_color=00000000&footer_style=compact_stats&maxage=60" alt="LastFM recently played">
       </a>
-    </td>
-    <td valign="top" width="50%">
-      <p><b>🎼 Coding Playlist Philosophy</b></p>
-      <ul>
-        <li>🎹 Lo-fi beats for deep focus sessions</li>
-        <li>🎸 Rock anthems for debugging marathons</li>
-        <li>🎺 Jazz for creative problem-solving</li>
-        <li>🎻 Classical for elegant code refactoring</li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -179,11 +128,6 @@ gpg --keyserver keys.openpgp.org --recv-keys 3D280550B702CBB9
 
 <!-- Last Updated -->
 <div align="center">
-  <h3>✨ Thanks for dropping by! ✨</h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=itsmrnatural&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views">
-  </p>
-  <i>🕐 Last updated: 10 October, 2025</i>
-  <br>
-  <i>🌙 Keep coding, stay curious, drink coffee ☕</i>
+  <h2> Thanks for stopping by! 🙌 </h2>
+  <i>Last updated: 10 October, 2025</i>
 </div>
