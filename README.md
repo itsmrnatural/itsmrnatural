@@ -84,6 +84,9 @@ gpg --keyserver keys.openpgp.org --recv-keys 3D280550B702CBB9
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
+<a href="https://helix-editor.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=helix" alt="Helix Editor" />
+  </a>
 </div>
 </details>
 <!-- Some Metrics -->
