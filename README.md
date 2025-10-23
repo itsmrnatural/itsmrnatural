@@ -58,7 +58,7 @@ gpg --keyserver keys.openpgp.org --recv-keys 3D280550B702CBB9
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" />
   </a>
 </div>
 
