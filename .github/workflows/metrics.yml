@@ -17,7 +17,7 @@ jobs:
 
         steps:
             - name: Header metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/header.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -27,8 +27,9 @@ jobs:
                   config_timezone: Asia/Kolkata
                   config_padding: 6%, 10%
                   config_display: large
+                  
             - name: Languages metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/languages.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -40,13 +41,14 @@ jobs:
                   plugin_languages: yes
                   plugin_languages_limit: 8
                   plugin_languages_threshold: 1%
-                  plugin_languages_sections: most-used, recently-used
+                  plugin_languages_sections: most-used
                   plugin_languages_colors: github
                   plugin_languages_details: bytes-size, percentage, lines
                   plugin_languages_indepth: yes
-                  plugin_languages_analysis_timeout: 15
+                  plugin_languages_analysis_timeout: 30
+
             - name: Activity metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/activity.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -60,8 +62,9 @@ jobs:
                   plugin_activity_days: 14
                   plugin_activity_filter: >-
                       push, pr, issue, release, review, comment
+
             - name: Achievements metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/achievements.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -73,8 +76,9 @@ jobs:
                   plugin_achievements: yes
                   plugin_achievements_display: compact
                   plugin_achievements_threshold: X
+
             - name: Habits metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/habits.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -89,8 +93,9 @@ jobs:
                   plugin_habits_facts: yes
                   plugin_habits_charts: yes
                   plugin_habits_trim: yes
+
             - name: Topics metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/topics.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -104,7 +109,7 @@ jobs:
                   plugin_topics_mode: icons
 
             - name: Repositories metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/repositories.svg
                   token: ${{ secrets.METRICS_TOKEN }}
@@ -115,9 +120,9 @@ jobs:
 
                   plugin_notable: yes
                   plugin_notable_repositories: yes
-                  
+
             - name: Community metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@v3.34
               with:
                   filename: metrics/community.svg
                   token: ${{ secrets.METRICS_TOKEN }}
