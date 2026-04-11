@@ -1,4 +1,4 @@
-name: Metrics
+name: GitHub Profile Metrics
 
 on:
     schedule:
@@ -10,19 +10,121 @@ on:
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
+        environment:
+            name: production
         permissions:
             contents: write
+
         steps:
-            - uses: lowlighter/metrics@latest
+            - name: Header metrics
+              uses: lowlighter/metrics@latest
               with:
+                  filename: metrics/header.svg
                   token: ${{ secrets.METRICS_TOKEN }}
                   user: itsmrnatural
                   template: classic
-                  base: header, activity, community, repositories
+                  base: header
                   config_timezone: Asia/Kolkata
-                  
+                  config_padding: 6%, 10%
+                  config_display: large
+            - name: Languages metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/languages.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: ""
+                  config_timezone: Asia/Kolkata
+
                   plugin_languages: yes
-                  plugin_languages_limit: 6
-                  plugin_languages_sections: most-used
+                  plugin_languages_limit: 8
+                  plugin_languages_threshold: 1%
+                  plugin_languages_sections: most-used, recently-used
                   plugin_languages_colors: github
-                  plugin_languages_details: percentage
+                  plugin_languages_details: bytes-size, percentage, lines
+                  plugin_languages_indepth: yes
+                  plugin_languages_analysis_timeout: 15
+            - name: Activity metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/activity.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: ""
+                  config_timezone: Asia/Kolkata
+
+                  plugin_activity: yes
+                  plugin_activity_limit: 7
+                  plugin_activity_days: 14
+                  plugin_activity_filter: >-
+                      push, pr, issue, release, review, comment
+            - name: Achievements metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/achievements.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: ""
+                  config_timezone: Asia/Kolkata
+
+                  plugin_achievements: yes
+                  plugin_achievements_display: compact
+                  plugin_achievements_threshold: X
+            - name: Habits metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/habits.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: ""
+                  config_timezone: Asia/Kolkata
+
+                  plugin_habits: yes
+                  plugin_habits_from: 200
+                  plugin_habits_days: 14
+                  plugin_habits_facts: yes
+                  plugin_habits_charts: yes
+                  plugin_habits_trim: yes
+            - name: Topics metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/topics.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: ""
+                  config_timezone: Asia/Kolkata
+
+                  plugin_topics: yes
+                  plugin_topics_limit: 15
+                  plugin_topics_mode: icons
+
+            - name: Repositories metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/repositories.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: repositories
+                  config_timezone: Asia/Kolkata
+
+                  plugin_notable: yes
+                  plugin_notable_repositories: yes
+                  
+            - name: Community metrics
+              uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics/community.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  user: itsmrnatural
+                  template: classic
+                  base: community
+                  config_timezone: Asia/Kolkata
+
+                  plugin_stars: yes
+                  plugin_stars_limit: 4
