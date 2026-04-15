@@ -5,7 +5,7 @@ Student, programmer, and coffee enthusiast. I enjoy building things and learning
 ### What I work with
 
 **Languages:** C, Python, JavaScript, HTML, CSS  
-**Learning:** C++, Rust, Kotlin, Haskell   
+**Learning:** C++, Rust, Haskell   
 **Tools:** Git, GitHub, VS Code, Helix, Android Studio
 
 ### GitHub Stats
