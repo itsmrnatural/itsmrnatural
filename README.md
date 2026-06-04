@@ -10,7 +10,7 @@ Student, programmer, and coffee enthusiast. I enjoy building things and learning
 
 ### GitHub Stats
 
-<img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/refs/heads/main/github-metrics.svg" alt="Metrics" width="400">
+<img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/refs/heads/main/github-metrics.svg" alt="Metrics" width="500">
 
 ### Currently listening to
 
