@@ -11,14 +11,14 @@ Tools: Git, GitHub, VS Code, Helix, Android Studio
 
 ### Currently listening to
 
-<a href="[lastfm]">
+<a href="https://www.last.fm/user/itsmrnatural" target="_blank">
   <img src="https://lastfm-recently-played.vercel.app/api?user=itsmrnatural&count=2&loved=true" alt="Last.fm">
 </a>
 
 ---
 
 <div align="center">
- <a href="[lastfm]">last.fm</a> <a href="https://www.linkedin.com/in/imdhananjay">linkedin</a> <a href="https://www.instagram.com/dhhananjays">instagram</a>
+ <a href="https://www.last.fm/user/itsmrnatural" target="_blank">last.fm</a> <a href="https://www.linkedin.com/in/imdhananjay" target="_blank">linkedin</a> <a href="https://www.instagram.com/dhhananjays" target="_blank">instagram</a>
 </div>
 
 <details>
@@ -38,6 +38,3 @@ curl https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/main/public-key
 gpg --keyserver keys.openpgp.org --recv-keys 3D280550B702CBB9
 ```
 </details>
-
-
-[lastfm]: https://www.last.fm/user/itsmrnatural
