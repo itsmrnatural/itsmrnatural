@@ -4,7 +4,7 @@ Student, programmer, and coffee enthusiast. I enjoy building things and learning
 
 
 Languages: C, Python, HTML, CSS  
-Learning: C++, JavaScript
+Learning: C++, JavaScript  
 Tools: Git, VS Code, Helix Editor, Postman
 
 <img src="https://raw.githubusercontent.com/itsmrnatural/itsmrnatural/refs/heads/main/github-metrics.svg" alt="Metrics" width="400">
