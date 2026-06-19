@@ -17,9 +17,8 @@ Tools: Git, VS Code, Helix Editor, Postman
 
 ---
 
-<div align="center">
  <a href="https://www.last.fm/user/itsmrnatural" target="_blank">last.fm</a> <a href="https://www.linkedin.com/in/imdhananjay" target="_blank">linkedin</a> <a href="https://www.instagram.com/dhhananjays" target="_blank">instagram</a>
-</div>
+
 
 <details>
 <summary><b>gpg key</b></summary>
